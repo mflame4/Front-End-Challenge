@@ -5,7 +5,7 @@ My solution for the current Challenge was developed in a few days.
 The challenge consists of building a list of contacts in Vue. Need to
 create tabs, where each tab has a list of sorted users.
 
-###### Behavior 
+#### Behavior 
 - The contacts should be grouped in tabs.
 - When clicking, for example on B tab, it should render the users whose name
 starts with a B, sorted based on their last name.
@@ -18,9 +18,9 @@ clicked contact card should disappear.
 http://randomuser.me API.
 - The app should be usable on both small and large screens.
 
-###### Accessibility tested by Lighthouse, results in the Accessibility test.pdf.
+#### Accessibility tested by Lighthouse, results in the Accessibility test.pdf.
 
-###### The project was built and deployed to the firebase - https://contacts-e3711.web.app/.
+#### The project was built and deployed to the firebase - https://contacts-e3711.web.app/.
 
 ## Recommended IDE Setup
 
